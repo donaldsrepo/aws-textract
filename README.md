@@ -1,2 +1,2 @@
 # aws-textract
-demo for using AWS Textract
+demo console app for using AWS Textract
