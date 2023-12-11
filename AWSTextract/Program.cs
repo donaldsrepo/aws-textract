@@ -1,5 +1,4 @@
-﻿// System packages
-using System.Threading.Tasks;
+﻿using System.Threading.Tasks;
 using System;
 using System.Configuration;
 using Epic.AI.AWS.OCR;
